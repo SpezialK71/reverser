@@ -1,5 +1,5 @@
 # reverser
-|A simple python script to reverse text|
+------| A simple python script to reverse text |-------
 
 Inspired by my older brother's love of reversing text<br>
 strings of all lengths, and dedicated to everyone out<br>
